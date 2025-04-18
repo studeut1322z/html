@@ -1,0 +1,25 @@
+html,body{
+    height:100%;
+    color: lightgreen;
+  }
+
+  aside#left{
+    float:left; 
+    width:15%; 
+    height:70%;
+  }
+  section{
+    float:left;
+    width:60%;
+    height:70%;
+  }
+  aside#right{
+    float:right;
+    width:22%;
+    height:70%;
+  }
+  footer{
+    clear:both;
+  }
+  a{color: lightgreen;
+text-decoration: none;}
