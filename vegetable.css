@@ -23,3 +23,14 @@ html,body{
   }
   a{color: lightgreen;
 text-decoration: none;}
+ul.nav{
+  list-style: none;
+  text-align: center;
+  border-top:1px solid lightgreen;
+  border-bottom: 1px solid lightgreen;
+  padding: 10px 0;
+}
+ul.nav li{
+display: inline;
+padding: 5%;
+}
